@@ -1,0 +1,15 @@
+artifact_uri: file:///A:/End%20to%20End%20Machine%20Learning%20Projects/End-to-End-Machine-Learning-Project-With-MLFlow/mlruns/0/9ef4c23df495477980415ff31698dfea/artifacts
+end_time: 1713971888525
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9ef4c23df495477980415ff31698dfea
+run_name: wistful-chimp-274
+run_uuid: 9ef4c23df495477980415ff31698dfea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713971882384
+status: 3
+tags: []
+user_id: katka

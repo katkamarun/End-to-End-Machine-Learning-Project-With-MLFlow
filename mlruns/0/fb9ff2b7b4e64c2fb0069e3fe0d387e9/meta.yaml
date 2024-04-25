@@ -1,0 +1,15 @@
+artifact_uri: file:///A:/End%20to%20End%20Machine%20Learning%20Projects/End-to-End-Machine-Learning-Project-With-MLFlow/mlruns/0/fb9ff2b7b4e64c2fb0069e3fe0d387e9/artifacts
+end_time: 1713971082098
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fb9ff2b7b4e64c2fb0069e3fe0d387e9
+run_name: nervous-stoat-174
+run_uuid: fb9ff2b7b4e64c2fb0069e3fe0d387e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713971075515
+status: 3
+tags: []
+user_id: katka

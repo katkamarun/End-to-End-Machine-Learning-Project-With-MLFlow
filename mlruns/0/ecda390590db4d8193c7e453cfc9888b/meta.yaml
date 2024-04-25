@@ -1,0 +1,15 @@
+artifact_uri: file:///A:/End%20to%20End%20Machine%20Learning%20Projects/End-to-End-Machine-Learning-Project-With-MLFlow/mlruns/0/ecda390590db4d8193c7e453cfc9888b/artifacts
+end_time: 1713970923255
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ecda390590db4d8193c7e453cfc9888b
+run_name: resilient-crow-60
+run_uuid: ecda390590db4d8193c7e453cfc9888b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713970916953
+status: 3
+tags: []
+user_id: katka
