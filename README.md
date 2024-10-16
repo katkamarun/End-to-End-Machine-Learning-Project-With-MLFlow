@@ -74,9 +74,9 @@ Run this to export as env variables:
 
 export MLFLOW_TRACKING_URI=https://dagshub.com/katkamarun/End-to-End-Machine-Learning-Project-With-MLFlow.mlflow
 
-export MLFLOW_TRACKING_USERNAME=katkamarun
+export MLFLOW_TRACKING_USERNAME=
 
-export MLFLOW_TRACKING_PASSWORD=fe765be1a965a4c288a37b84bd6b2be20ee37b2f
+export MLFLOW_TRACKING_PASSWORD=
 
 ```
 
